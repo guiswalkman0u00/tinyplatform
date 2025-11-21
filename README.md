@@ -1,0 +1,2 @@
+# tinyplatform
+Python script
